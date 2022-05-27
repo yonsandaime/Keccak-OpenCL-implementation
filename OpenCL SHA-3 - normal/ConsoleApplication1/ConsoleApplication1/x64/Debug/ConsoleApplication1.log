@@ -1,7 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\Tarik\source\repos\Bachelorproef_OpenCL\OpenCL SHA-3 - normal\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
-C:\Users\Tarik\source\repos\Bachelorproef_OpenCL\OpenCL SHA-3 - normal\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
-  cl2.hpp has been renamed to opencl.hpp to make it clear that it supports all versions of OpenCL. Please include opencl.hpp directly.
-C:\Users\Tarik\source\repos\Bachelorproef_OpenCL\OpenCL SHA-3 - normal\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(78,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  LINK : C:\Users\Tarik\source\repos\Bachelorproef_OpenCL\OpenCL SHA-3 - normal\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe not found or not built by the last incremental link; performing full link
-  ConsoleApplication1.vcxproj -> C:\Users\Tarik\source\repos\Bachelorproef_OpenCL\OpenCL SHA-3 - normal\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
