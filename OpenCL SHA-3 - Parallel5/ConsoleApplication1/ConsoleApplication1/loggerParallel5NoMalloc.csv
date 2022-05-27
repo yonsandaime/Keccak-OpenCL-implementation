@@ -1,0 +1,11 @@
+Parallel5NoMalloc
+1B.bin; 6188.12
+10B.bin; 65573.8
+100B.bin; 623441
+1KB.bin; 4.91127e+06
+10KB.bin; 1.47317e+07
+100KB.bin; 1.86426e+07
+1MB.bin; 1.85987e+07
+10MB.bin; 1.92408e+07
+100MB.bin; 1.93214e+07
+
