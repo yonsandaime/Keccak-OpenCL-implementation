@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  cl2.hpp has been renamed to opencl.hpp to make it clear that it supports all versions of OpenCL. Please include opencl.hpp directly.
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(108,70): warning C4244: 'argument': conversion from 'std::streamsize' to 'cl::size_type', possible loss of data
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(114,19): warning C4244: 'initializing': conversion from 'std::streamsize' to 'double', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Tarik\source\repos\OpenCL SHA-3 - Buffer1s1t_136\ConsoleApplication1\Debug\ConsoleApplication1.exe
