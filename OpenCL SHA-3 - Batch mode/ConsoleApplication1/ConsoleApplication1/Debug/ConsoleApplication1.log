@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Batch mode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Batch mode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  cl2.hpp has been renamed to opencl.hpp to make it clear that it supports all versions of OpenCL. Please include opencl.hpp directly.
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Batch mode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Batch mode\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(79,12): warning C4101: 'runtime': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Tarik\source\repos\OpenCL SHA-3 - Batch mode\ConsoleApplication1\Debug\ConsoleApplication1.exe
