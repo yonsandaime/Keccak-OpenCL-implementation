@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Parallel25\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Parallel25\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  cl2.hpp has been renamed to opencl.hpp to make it clear that it supports all versions of OpenCL. Please include opencl.hpp directly.
+C:\Users\Tarik\source\repos\OpenCL SHA-3 - Parallel25\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tarik\source\repos\OpenCL SHA-3 - Parallel25\ConsoleApplication1\Debug\ConsoleApplication1.exe
